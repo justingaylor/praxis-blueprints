@@ -5,7 +5,7 @@ require 'praxis-blueprints/version'
 
 Gem::Specification.new do |spec|
   spec.name          = 'praxis-blueprints'
-  spec.version       = Praxis::BLUEPRINTS_VERSION
+  spec.version       = 3.4
   spec.authors = ['Josep M. Blanquer', 'Dane Jensen']
   spec.summary = 'Attributes, views, rendering and example generation for common Blueprint Structures.'
   spec.description = <<-EOF
